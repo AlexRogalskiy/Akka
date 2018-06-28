@@ -1,0 +1,2 @@
+# Akka
+The Akka playground
